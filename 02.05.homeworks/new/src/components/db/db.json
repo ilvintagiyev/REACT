@@ -1,0 +1,38 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Lizard",
+            "salary":5000
+        },
+        {
+            "id":"2",
+            "name":"bear",
+            "salary":10000
+        },
+        {
+            "id":"3",
+            "name":"rabbit",
+            "salary":500
+        },
+        {
+            "id":"4",
+            "name":"bee",
+            "salary":30
+        },
+        {
+            "id":"5",
+            "name":"wolf",
+            "salary":40000
+        },
+        {
+            "id":"6",
+            "name":"Lion",
+            "salary":60000
+        }
+    ]
+
+
+
+
+}
