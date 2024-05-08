@@ -1,0 +1,45 @@
+{
+  "countries": [
+    {
+      "id": "1",
+      "name": "Azerbaijan",
+      "population": 10000000,
+      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/800px-Flag_of_Azerbaijan.svg.png",
+      "capital": "Baku",
+      "description": "Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe."
+    },
+    {
+      "id": "2",
+      "name": "Niderland",
+      "population": 18000000,
+      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+      "capital": "Amsterdam",
+      "description": "The Netherlands,[j] informally Holland, is a country located in northwestern Europe with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands.[13] The Netherlands consists of twelve provinces; it borders Germany to the east and Belgium to the south, with a North Sea coastline to the north and west."
+    },
+    {
+      "id": "3",
+      "name": "Türkiye",
+      "population": 84000000,
+      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png",
+      "capital": "Ankara",
+      "description": "Turkey, officially the Republic of Türkiye, is a country mainly in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. "
+    },
+    {
+      "id": "4",
+      "name": "Pakistan",
+      "population": 242000000,
+      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
+      "capital": "Islamabad",
+      "description": "Pakistan,[e] officially the Islamic Republic of Pakistan,[f] is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023.[8] Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Pakistan is the 33rd-largest country by area and the ninth-largest in Asia"
+    },
+    {
+      "id": "5",
+      "name": "United Arab Emirates",
+      "population": 9300000,
+      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1920px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "capital": "Abu Dhabi",
+      "description": "The United Arab Emirates[b] (UAE), or simply the Emirates,[c] is a country in West Asia, in the Middle East. Located at the eastern end of the Arabian Peninsula, it shares borders with Oman and Saudi Arabia; as well as maritime borders in the Persian Gulf with Qatar and Iran. The United Arab Emirates is an elective monarchy formed from a federation of seven emirates."
+    }
+    
+  ]
+}
