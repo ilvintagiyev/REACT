@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Selpak",
+      "salePrice": 6,
+      "costPrice": 1,
+      "imgSrc": "https://bazarstore.az/cdn/shop/files/1a51339b15c209642c744e06af0610de.jpg?v=1699099060",
+      "discountPercentage": 0,
+      "description": "3-ply Selpak Toilet Paper is ideal for all of your personal hygiene needs – even the most delicate ones! It's thick and absorbent and doesn't dissolve in your hand when wet and only dissolves after flushing.",
+      "categoryId": "1",
+      "stockCount": 255
+    },
+    {
+      "id": "2",
+      "name": "Ketcap",
+      "salePrice": 5,
+      "costPrice": 4,
+      "imgSrc": "https://bazarstore.az/cdn/shop/products/10003197_eff718e7-59c8-4e6c-914f-c402fbd7da9a.jpg?v=1693462432",
+      "discountPercentage": 0,
+      "description": "Ketchup or catsup (/ˈkɛtʃəp, ˈkætsup, ˈkɑːtʃəp/) is a table condiment with a sweet and sour flavor.",
+      "categoryId": "2",
+      "stockCount": 215
+    },
+    {
+      "id": "3",
+      "name": "kolbasa",
+      "salePrice": 15,
+      "costPrice": 13,
+      "imgSrc": "https://bazarstore.az/cdn/shop/products/30014207_af141713-d4bf-4801-8638-5e6a2558352d.jpg?v=1693894951",
+      "discountPercentage": 0,
+      "description": "A sausage is a type of meat product usually made from ground meat—often pork, beef, or poultry—along with salt, spices and other flavourings. Other ingredients, such as grains or breadcrumbs, may be included as fillers or extenders.",
+      "stockCount": 500
+    },
+    {
+      "id": "4",
+      "name": "pive",
+      "salePrice": 2,
+      "costPrice": 1,
+      "imgSrc": "https://bazarstore.az/cdn/shop/files/9ccb2897526885e1db2b1513c767d953.jpg?v=1694762094",
+      "discountPercentage": 0,
+      "description": "Beer is one of the oldest alcoholic drinks in the world,[1][2][3] the most widely consumed,[4] and the third most popular drink after water and tea.",
+      "categoryId": "3",
+      "stockCount": 340
+    },
+    {
+      "id": "5",
+      "name": "Mayonez",
+      "salePrice": 7,
+      "costPrice": 5.5,
+      "imgSrc": "https://bazarstore.az/cdn/shop/files/031973262ada52d21453174aac754766.jpg?v=1701697163",
+      "discountPercentage": 0,
+      "description": "Mayonnaise is a French cuisine appellation that seems to have appeared for the first time in 1806. The hypotheses invoked over time as to the origin(s) of mayonnaise have been numerous and contradictory. Most hypotheses do however agree on the geographical origin of the sauce, Mahón, in Menorca, Spain."
+    },
+    {
+      "id": "6",
+      "name": "Twix",
+      "salePrice": 2,
+      "costPrice": 1,
+      "imgSrc": "https://cdn.mafrservices.com/sys-master-root/h04/h8b/48955668267038/140990_main.jpg?im=Resize=480",
+      "discountPercentage": 0,
+      "description": "Twix is a caramel shortbread chocolate bar made by Mars, Inc., consisting of a biscuit applied with other confectionery toppings and coatings",
+      "stockCount": 200
+    },
+    {
+      "id": "7",
+      "name": "rice",
+      "salePrice": 10,
+      "costPrice": 9.10,
+      "imgSrc": "https://neptun.az/image/cache/catalog/YEN%C4%B0/MEHSUL/yenimehsul/DSC_0415-1000x1000.jpg?v=9",
+      "discountPercentage": 0,
+      "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or, much less commonly, O. glaberrima (African rice). Asian rice was domesticated in China some 13,500 to 8,200 years ago, while African rice was domesticated in Africa some 3,000 years ago.",
+      "stockCount": 500
+    },
+    {
+      "id": "8",
+      "name": "Ankara Makaron",
+      "salePrice": 6,
+      "costPrice": 5,
+      "imgSrc": "https://bazarstore.az/cdn/shop/products/30129393.jpg?v=1693903666",
+      "discountPercentage": 0,
+      "description": "Nuh'un Ankara Makarnası is one of the most well-known established brands in Turkey. The company started in 1950 and soon became a large pasta producer.",
+      "stockCount": 100
+    }
+  ]
+}

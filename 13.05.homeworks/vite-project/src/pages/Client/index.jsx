@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from "react";
+import ClientHeader from "../../components/Client/Header";
 import { Outlet } from "react-router";
-import ClientHeader from "../../components/Client";
 import { getAll } from "../../services";
 import { endpoint } from "../../services/constant";
 
 const ClientLayout = () => {
-  const [countries, setCountries] = useState([]);
+  const [products, setProducts] = useState([]);
   useEffect(() => {
-    getAll(endpoint.countries)
+    getAll(endpoint.products)
       .then((response) => {
-        setCountries(response);
+        setProducts(response.data);
       })
       .catch((err) => {
         console.log(err);
@@ -19,7 +19,7 @@ const ClientLayout = () => {
   return (
     <>
       <ClientHeader />
-      <Outlet context={[countries, setCountries]} />
+      <Outlet context={[products, setProducts]} />
     </>
   );
 };
